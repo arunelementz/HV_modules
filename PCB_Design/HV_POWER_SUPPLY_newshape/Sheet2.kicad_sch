@@ -7039,7 +7039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "SOD-323"
+		(property "Package" "SOD-123"
 			(at 83.82 78.74 0)
 			(effects
 				(font
@@ -7997,7 +7997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "SOD-323"
+		(property "Package" "SOD-123"
 			(at 83.82 57.15 0)
 			(effects
 				(font
